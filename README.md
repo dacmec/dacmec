@@ -44,7 +44,7 @@ fast learner and I will adapt with ease to new technologies.
   MySQL
 </div>
 <div style="display: flex; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Git" width="26px" style="padding-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Git" width="26px" style="padding-right: 10px;" />
   Tailwindcss
 </div>
 
