@@ -49,6 +49,27 @@ fast learner and I will adapt with ease to new technologies.
 </div>
 
 <div style="display: flex; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Git" width="26px" style="padding-right: 10px;" />
+  Redux
+</div>
+<div style="display: flex; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Git" width="26px" style="padding-right: 10px;" />
+  Express.js
+</div>
+<div style="display: flex; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Git" width="26px" style="padding-right: 10px;" />
+  PostgresSQL
+</div>
+<div style="display: flex; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Git" width="26px" style="padding-right: 10px;" />
+  Java
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Git" width="26px" style="padding-right: 10px;" />
+  Trello
+</div>
+<div style="display: flex; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="26px" style="padding-right: 10px;" />
   Git
 </div>
